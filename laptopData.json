@@ -1,6 +1,7 @@
 [
   {
-    "PName": "Acer Chromebook 311 - CB311-9H-C6QW",
+    "ID": "CB311-9H-C6QW",
+    "PName": "Acer Chromebook 311",
     "GName": "acerImg1.png",
     "CPrice": 199.99,
     "MSRP": 250,
@@ -10,7 +11,8 @@
     "BRAND": "Acer"
   },
   {
-    "PName": "Acer Aspire 1 Laptop - A115-32-C7ZW",
+    "ID": "A115-32-C7ZW",
+    "PName": "Acer Aspire 1 Laptop",
     "GName": "acerImg2.png",
     "CPrice": 269.99,
     "MSRP": 300,
@@ -20,7 +22,8 @@
     "BRAND": "Acer"
   },
   {
-    "PName": "Aspire 5 Laptop - A515-45-R1QD",
+    "ID": "A515-45-R1QD",
+    "PName": "Aspire 5 Laptop",
     "GName": "acerImg3.png",
     "CPrice": 499.99,
     "MSRP": 550,
@@ -30,7 +33,8 @@
     "BRAND": "Acer"
   },
   {
-    "PName": "Acer Spin 3 Laptop - SP314-54N-50JD",
+    "ID": "SP314-54N-50JD",
+    "PName": "Acer Spin 3 Laptop",
     "GName": "acerImg4.png",
     "CPrice": 999.99,
     "MSRP": 1050,
@@ -40,17 +44,8 @@
     "BRAND": "Acer"
   },
   {
-    "PName": "Acer Nitro 5 Gaming Laptop - AN515-57-79YR",
-    "GName": "acerImg5.png",
-    "CPrice": 1199.99,
-    "MSRP": 1250,
-    "QOnHand": 30,
-    "QOnBackOrder": 30,
-    "DESC": "Windows 11 Home, Intel® Core™ i7-11800H processor Octa-core 2.40 GHz, NVIDIA® GeForce® RTX™ 3050Ti with 4 GB dedicated memory, 15.6 inch Full HD (1920 x 1080) 16:9, 16 GB, DDR4 SDRAM, 512 GB SSD",
-    "BRAND": "Acer"
-  },
-  {
-    "PName": "Acer Nitro 5 Gaming Laptop - AN515-57-79YR",
+    "ID": "AN515-57-79YR",
+    "PName": "Acer Nitro 5 Gaming Laptop",
     "GName": "acerImg5.png",
     "CPrice": 1199.99,
     "MSRP": 1250,
@@ -60,9 +55,9 @@
     "BRAND": "Acer"
   },
 
-
   {
-    "PName": "Asus Zenbook Pro 14 Duo OLED (UX8402)",
+    "ID": "UX8402",
+    "PName": "Asus Zenbook Pro 14 Duo OLED",
     "GName": "asusImg1.png",
     "CPrice": 3499.99,
     "MSRP": 3550,
@@ -72,7 +67,8 @@
     "BRAND": "Asus"
   },
   {
-    "PName": "ASUS Chromebook CX1 (CX1700)",
+    "ID": "CX1700",
+    "PName": "ASUS Chromebook CX1",
     "GName": "asusImg2.png",
     "CPrice": 479.99,
     "MSRP": 550,
@@ -82,7 +78,8 @@
     "BRAND": "Asus"
   },
   {
-    "PName": "ASUS Vivobook Pro 15 OLED (K6502)",
+    "ID": "K6502",
+    "PName": "ASUS Vivobook Pro 15 OLED",
     "GName": "asusImg3.png",
     "CPrice": 1999.99,
     "MSRP": 2100,
@@ -92,6 +89,7 @@
     "BRAND": "Asus"
   },
   {
+    "ID": "X515EP",
     "PName": "ASUS X515 (11th Gen Intel)",
     "GName": "asusImg4.png",
     "CPrice": 649.99,
@@ -102,7 +100,8 @@
     "BRAND": "Asus"
   },
   {
-    "PName": "ASUS Chromebook Flip CM3 (CM3200)",
+    "ID": "CM3200",
+    "PName": "ASUS Chromebook Flip CM3",
     "GName": "asusImg5.png",
     "CPrice": 349.99,
     "MSRP": 400,
@@ -114,7 +113,8 @@
 
 
   {
-    "PName": "Lenovo ThinkPad X1 Yoga Gen 6 Intel (20XY00GTUS)",
+    "ID": "20XY00GTUS",
+    "PName": "Lenovo ThinkPad X1 Yoga Gen 6 Intel",
     "GName": "lenovoImg1.png",
     "CPrice": 1379.99,
     "MSRP": 2000,
@@ -124,7 +124,8 @@
     "BRAND": "Lenovo"
   },
   {
-    "PName": "Lenovo ThinkPad X1 Carbon Gen 10 Intel (21CB000JUS) - Black",
+    "ID": "21CB000JUS",
+    "PName": "Lenovo ThinkPad X1 Carbon Gen 10 Intel - Black",
     "GName": "lenovoImg2.png",
     "CPrice": 2329.99,
     "MSRP": 3000,
@@ -134,7 +135,8 @@
     "BRAND": "Lenovo"
   },
   {
-    "PName": "Lenovo ThinkPad T14s Gen 2 AMD (20XF00AEUS) - Storm Grey",
+    "ID": "20XF00AEUS",
+    "PName": "Lenovo ThinkPad T14s Gen 2 AMD - Storm Grey",
     "GName": "lenovoImg3.png",
     "CPrice": 827.99,
     "MSRP": 1000,
@@ -144,7 +146,8 @@
     "BRAND": "Lenovo"
   },
   {
-    "PName": "Lenovo ThinkPad L13 Gen 3 Intel (21B3CTO1WWCA1)",
+    "ID": "21B3CTO1WWCA1",
+    "PName": "Lenovo ThinkPad L13 Gen 3 Intel",
     "GName": "lenovoImg4.png",
     "CPrice": 1000.20,
     "MSRP": 1500,
@@ -154,7 +157,8 @@
     "BRAND": "Lenovo"
   },
   {
-    "PName": "Legion Pro 7i Gen 8 Intel (82WR0000US) with RTX 4070",
+    "ID": "82WR0000US",
+    "PName": "Legion Pro 7i Gen 8 Intel with RTX 4070",
     "GName": "lenovoImg5.png",
     "CPrice": 2599.99,
     "MSRP": 3000,
