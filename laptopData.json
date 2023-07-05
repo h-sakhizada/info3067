@@ -1,0 +1,166 @@
+[
+  {
+    "PName": "Acer Chromebook 311 - CB311-9H-C6QW",
+    "GName": "acerImg1.png",
+    "CPrice": 199.99,
+    "MSRP": 250,
+    "QOnHand": 10,
+    "QOnBackOrder": 5,
+    "DESC": "Chrome OS, Intel® Celeron® N4020 processor, 4 GB standard memory, 32 GB Flash storage SD Card reader, Intel® UHD Graphics 600, 11.6 HD (1366 x 768) IPS ComfyView display, Wi-Fi 5 & Bluetooth 5.0",
+    "BRAND": "Acer"
+  },
+  {
+    "PName": "Acer Aspire 1 Laptop - A115-32-C7ZW",
+    "GName": "acerImg2.png",
+    "CPrice": 269.99,
+    "MSRP": 300,
+    "QOnHand": 8,
+    "QOnBackOrder": 3,
+    "DESC": "Windows 11 Home in S Mode, Intel® Celeron® N4500 processor Dual-core 1.10 GHz, Intel® UHD Graphics shared memory, 15.6 inch Full HD (1920 x 1080) 16:9, 4 GB, DDR4 SDRAM, 64 GB Flash Memory, Includes one year of Microsoft 365",
+    "BRAND": "Acer"
+  },
+  {
+    "PName": "Aspire 5 Laptop - A515-45-R1QD",
+    "GName": "acerImg3.png",
+    "CPrice": 499.99,
+    "MSRP": 550,
+    "QOnHand": 3,
+    "QOnBackOrder": 8,
+    "DESC": "Windows 11 Home in S Mode, AMD Ryzen™ 3 5300U processor Quad-core 2.60 GHz, AMD Radeon™ Graphics shared memory, 15.6 inch Full HD (1920 x 1080) 16:9, 8 GB, DDR4 SDRAM, 256 GB SSD",
+    "BRAND": "Acer"
+  },
+  {
+    "PName": "Acer Spin 3 Laptop - SP314-54N-50JD",
+    "GName": "acerImg4.png",
+    "CPrice": 999.99,
+    "MSRP": 1050,
+    "QOnHand": 15,
+    "QOnBackOrder": 20,
+    "DESC": "Windows 10 Home, Intel® Core™ i5-1035G4 processor Quad-core 1.10 GHz, Intel® Iris Plus Graphics shared memory, 14 inch Full HD (1920 x 1080) 16:9 Touchscreen, 8 GB, LPDDR4, 256 GB SSD",
+    "BRAND": "Acer"
+  },
+  {
+    "PName": "Acer Nitro 5 Gaming Laptop - AN515-57-79YR",
+    "GName": "acerImg5.png",
+    "CPrice": 1199.99,
+    "MSRP": 1250,
+    "QOnHand": 30,
+    "QOnBackOrder": 30,
+    "DESC": "Windows 11 Home, Intel® Core™ i7-11800H processor Octa-core 2.40 GHz, NVIDIA® GeForce® RTX™ 3050Ti with 4 GB dedicated memory, 15.6 inch Full HD (1920 x 1080) 16:9, 16 GB, DDR4 SDRAM, 512 GB SSD",
+    "BRAND": "Acer"
+  },
+  {
+    "PName": "Acer Nitro 5 Gaming Laptop - AN515-57-79YR",
+    "GName": "acerImg5.png",
+    "CPrice": 1199.99,
+    "MSRP": 1250,
+    "QOnHand": 30,
+    "QOnBackOrder": 30,
+    "DESC": "Windows 11 Home, Intel® Core™ i7-11800H processor Octa-core 2.40 GHz, NVIDIA® GeForce® RTX™ 3050Ti with 4 GB dedicated memory, 15.6 inch Full HD (1920 x 1080) 16:9, 16 GB, DDR4 SDRAM, 512 GB SSD",
+    "BRAND": "Acer"
+  },
+
+
+  {
+    "PName": "Asus Zenbook Pro 14 Duo OLED (UX8402)",
+    "GName": "asusImg1.png",
+    "CPrice": 3499.99,
+    "MSRP": 3550,
+    "QOnHand": 5,
+    "QOnBackOrder": 6,
+    "DESC": "Windows 11 Home - ASUS recommends Windows 11 Pro for business, 13th Gen Intel® Core™ i9 processor, NVIDIA® GeForce RTX™ 4060, 32 GB memory, 2 TB SSD storage, 14.5 inch 2.8K OLED NanoEdge display, 12.7 inch 2.8K 120 Hz ScreenPad™ Plus",
+    "BRAND": "Asus"
+  },
+  {
+    "PName": "ASUS Chromebook CX1 (CX1700)",
+    "GName": "asusImg2.png",
+    "CPrice": 479.99,
+    "MSRP": 550,
+    "QOnHand": 10,
+    "QOnBackOrder": 9,
+    "DESC": "ChromeOS, 8 GB memory, 128 GB eMMC, 17.3 inch FHD display, Anti-glare display, 1.5 mm key travel, Up to dual-band WiFi 6, Up to 17 hours battery life",
+    "BRAND": "Asus"
+  },
+  {
+    "PName": "ASUS Vivobook Pro 15 OLED (K6502)",
+    "GName": "asusImg3.png",
+    "CPrice": 1999.99,
+    "MSRP": 2100,
+    "QOnHand": 12,
+    "QOnBackOrder": 6,
+    "DESC": "Windows 11 Pro - ASUS recommends Windows 11 Pro for business, 13th Intel® Core™ i9 processor, Up to NVIDIA GeForce RTX 4060, Dedicated MUX Switch for better gaming, 32 GB DDR5 4800 MHz memory, 15.6'' 2.8K 120 Hz OLED NanoEdge display, ASUS IceCool Plus thermal technology, 180 Degree hinge for diverse usage",
+    "BRAND": "Asus"
+  },
+  {
+    "PName": "ASUS X515 (11th Gen Intel)",
+    "GName": "asusImg4.png",
+    "CPrice": 649.99,
+    "MSRP": 700,
+    "QOnHand": 40,
+    "QOnBackOrder": 5,
+    "DESC": "Windows 11 Home, Intel® Core™ i7 processor, NVIDIA® MX330 discrete graphics, 16GB memory, 1 TB PCIe® SSD and 1 TB HDD, E-A-R® HDD shock dampening, 15.6 inch FHD NanoEdge display",
+    "BRAND": "Asus"
+  },
+  {
+    "PName": "ASUS Chromebook Flip CM3 (CM3200)",
+    "GName": "asusImg5.png",
+    "CPrice": 349.99,
+    "MSRP": 400,
+    "QOnHand": 32,
+    "QOnBackOrder": 11,
+    "DESC": "Chrome OS, MediaTek Kompanio 820 processor, 8 GB memory, 128 GB eMMC, 12 inch HD+ NanoEdge display, Touchscreen with optional ASUS Pen support, 16 hours battery life, Digital Assistant - Google Assistant",
+    "BRAND": "Asus"
+  },
+
+
+  {
+    "PName": "Lenovo ThinkPad X1 Yoga Gen 6 Intel (20XY00GTUS)",
+    "GName": "lenovoImg1.png",
+    "CPrice": 1379.99,
+    "MSRP": 2000,
+    "QOnHand": 5,
+    "QOnBackOrder": 2,
+    "DESC": "Windows 11 Pro 64, 11th Generation Intel® Core™ i7-1185G7 vPro® Processor, Integrated Intel® Iris® Xe Graphics, 16 GB LPDDR4X-4266MHz (Soldered), 512 GB SSD M.2 2280 PCIe TLC Opal, 14 inch WUXGA (1920 x 1200), IPS, Anti-Reflection/Anti-Smudge, Touch, 100%sRGB, 400 nits, 60Hz, Low Power, Low Blue Light",
+    "BRAND": "Lenovo"
+  },
+  {
+    "PName": "Lenovo ThinkPad X1 Carbon Gen 10 Intel (21CB000JUS) - Black",
+    "GName": "lenovoImg2.png",
+    "CPrice": 2329.99,
+    "MSRP": 3000,
+    "QOnHand": 8,
+    "QOnBackOrder": 1,
+    "DESC": "Windows 11 Pro 64, 12th Generation Intel® Core™ i7-1260P Processor (E-cores up to 3.40 GHz P-cores up to 4.70 GHz), Integrated Intel® Iris® Xe Graphics, 16 GB LPDDR5 5200MHz (Soldered), 1 TB SSD M.2 2280 PCIe Gen4 Performance TLC Opal, 14 inch WUXGA (1920 x 1200), IPS, Anti-Glare, Touch, 100%sRGB, 400 nits, 60Hz, LED Backlight, Narrow Bezel, Low Blue Light",
+    "BRAND": "Lenovo"
+  },
+  {
+    "PName": "Lenovo ThinkPad T14s Gen 2 AMD (20XF00AEUS) - Storm Grey",
+    "GName": "lenovoImg3.png",
+    "CPrice": 827.99,
+    "MSRP": 1000,
+    "QOnHand": 17,
+    "QOnBackOrder": 18,
+    "DESC": "Windows 11 Pro 64, AMD Ryzen™ 5 PRO 5650U Processor (2.30 GHz up to 4.20 GHz), Integrated AMD Radeon™ Graphics, 8 GB LPDDR4X-4266MHz (Soldered), 256 GB SSD M.2 2242 PCIe TLC, 14 inch FHD (1920 x 1080), IPS, Anti-Glare, Non-Touch, 45%NTSC, 300 nits, LED Backlight, Narrow Bezel",
+    "BRAND": "Lenovo"
+  },
+  {
+    "PName": "Lenovo ThinkPad L13 Gen 3 Intel (21B3CTO1WWCA1)",
+    "GName": "lenovoImg4.png",
+    "CPrice": 1000.20,
+    "MSRP": 1500,
+    "QOnHand": 22,
+    "QOnBackOrder": 28,
+    "DESC": "Windows 11 Home, 12th Generation Intel® Core™ i3-1215U Processor (E-cores up to 3.30 GHz P-cores up to 4.40 GHz), Windows 11 Home, 8 GB DDR4-3200MHz (Soldered), 256 GB SSD M.2 2242 PCIe Gen4 TLC Opal, 13.3 inch WUXGA (1920 x 1200), IPS, Anti-Glare, Non-Touch, 45%NTSC, 300 nits, 60Hz",
+    "BRAND": "Lenovo"
+  },
+  {
+    "PName": "Legion Pro 7i Gen 8 Intel (82WR0000US) with RTX 4070",
+    "GName": "lenovoImg5.png",
+    "CPrice": 2599.99,
+    "MSRP": 3000,
+    "QOnHand": 6,
+    "QOnBackOrder": 0,
+    "DESC": "Windows 11 Home 64, 13th Generation Intel® Core™ i9-13900HX Processor (E-cores up to 3.90 GHz P-cores up to 5.40 GHz), NVIDIA® GeForce RTX™ 4070 Laptop GPU 8GB GDDR6, 16 GB DDR5-5600MHz (SODIMM) - (2 x 8 GB), 1 TB SSD M.2 2280 PCIe Gen4 TLC, 16 inch WQXGA (2560 x 1600), IPS, Anti-Glare, Non-Touch, HDR 400, 100%sRGB, 500 nits, 240Hz, Narrow Bezel, Low Blue Light",
+    "BRAND": "Lenovo"
+  }
+]
