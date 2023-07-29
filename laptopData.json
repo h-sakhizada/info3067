@@ -4,8 +4,8 @@
     "PName": "Acer Chromebook 311",
     "GName": "acerImg1.png",
     "CPrice": 199.99,
-    "MSRP": 250,
-    "QOnHand": 5,
+    "MSRP": 509.99,
+    "QOnHand": 1,
     "QOnBackOrder": 0,
     "DESC": "Chrome OS, Intel® Celeron® N4020 processor, 4 GB standard memory, 32 GB Flash storage SD Card reader, Intel® UHD Graphics 600, 11.6 HD (1366 x 768) IPS ComfyView display, Wi-Fi 5 & Bluetooth 5.0",
     "BRAND": "Acer"
@@ -15,8 +15,8 @@
     "PName": "Acer Aspire 1 Laptop",
     "GName": "acerImg2.png",
     "CPrice": 269.99,
-    "MSRP": 300,
-    "QOnHand": 5,
+    "MSRP": 599.99,
+    "QOnHand": 1,
     "QOnBackOrder": 0,
     "DESC": "Windows 11 Home in S Mode, Intel® Celeron® N4500 processor Dual-core 1.10 GHz, Intel® UHD Graphics shared memory, 15.6 inch Full HD (1920 x 1080) 16:9, 4 GB, DDR4 SDRAM, 64 GB Flash Memory, Includes one year of Microsoft 365",
     "BRAND": "Acer"
